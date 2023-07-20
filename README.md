@@ -7,7 +7,7 @@
 
 
 #### Installation:
-- Click on Code > Download ZIP
+- Click on Code > Download ZIP (Or clone it using your github app or git)
 - Extract the ZIP file
 - Open a terminal in the folder
 - Run `pip install -r requirements.txt`
